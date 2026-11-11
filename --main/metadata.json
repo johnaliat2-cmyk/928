@@ -1,0 +1,6 @@
+{
+  "name": "928: This Day Changed My Life",
+  "description": "Official literary release, memoir, survivor chronicles, and peer counseling platform for '928: This Day Changed My Life' by Marine Veteran & TBI Survivor Saad Hamed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
